@@ -1,0 +1,10 @@
+# Ignore trained models
+*.h5
+*.pkl
+
+# Ignore datasets
+books_pdf/
+*.pdf
+
+# Python cache
+__pycache__/
